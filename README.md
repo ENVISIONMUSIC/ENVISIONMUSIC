@@ -1,5 +1,5 @@
 ### Hey! I'm ENVISION, I'm a music producer and part time programmer, I make games, websites, apps and programs for desktop!
-### Most of my Repo's are private though since they are for private use, sorry! (If you find one, Its probably special)
+### Most of my Repo's are private though since they are for private use, sorry! (If you find one, Its probably special or me messing around)
 
 ## Contact Me:
 Twitter: @ENVISIONOFCL

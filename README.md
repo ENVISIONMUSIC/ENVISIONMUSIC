@@ -1,6 +1,12 @@
 ### Hey! I'm ENVISION, I'm a music producer and part time programmer, I make games, websites, apps and programs for desktop!
 ### Most of my Repo's are private though since they are for private use, sorry! (If you find one, Its probably special)
 
+## Contact Me:
+Twitter: @ENVISIONOFCL
+Inquiries: inquiries@envisionmusic.ca
+
+
+
 <!--
 **ENVISIONMUSIC/ENVISIONMUSIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

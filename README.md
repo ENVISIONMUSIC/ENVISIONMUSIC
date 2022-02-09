@@ -4,7 +4,7 @@
 ## Contact Me:
 Twitter: @ENVISIONOFCL
 Inquiries: inquiries@envisionmusic.ca
-[![ENVISION's Github Stats](https://github-readme-stats.vercel.app/api?username=envisionmusic)](https://github.com/envisionmusic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENVISIONMUSIC)]
 
 
 
